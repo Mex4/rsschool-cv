@@ -1,5 +1,7 @@
 # Maxim Lopatin
 
+---
+
 ### Contact information
 
 E-mail: maxim1592@gmail.com\
